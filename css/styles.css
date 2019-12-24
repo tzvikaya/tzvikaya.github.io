@@ -2,6 +2,9 @@ html,body {
   height: 100%;
   overflow: hidden;
 }
+.fixmarg{
+  margin-bottom: 10px;
+}
 .small-text{
  font-size: small;
     color: #173753; 
